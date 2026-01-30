@@ -17,7 +17,7 @@ Primary CTA placement above-the-fold ensures immediate user action, while a seco
 Trust indicators are included early to reduce hesitation, and the layout follows a mobile-first approach.
 
 ## Live Project Link
-[Text you want to show](https://task-to-beauty.lovable.app)
+[LINK you want to show](https://task-to-beauty.lovable.app)
 
 ## Screenshots
 
